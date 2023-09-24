@@ -1,10 +1,10 @@
-import CartButton from '../Cart/CartButton';
-import classes from './MainHeader.module.css';
+import CartButton from "../Cart/CartButton";
+import classes from "./MainHeader.module.css";
 
 const MainHeader = (props) => {
   return (
     <header className={classes.header}>
-      <h1>Pista Academy</h1>
+      <h1> Mehdi Shop </h1>
       <nav>
         <ul>
           <li>
